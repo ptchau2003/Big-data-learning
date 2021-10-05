@@ -64,10 +64,11 @@ if __name__ == "__main__":
 
     query_bts_location(args.data_source, args.output_uri)
     ```
-    ### Check the result in S3 bucket to see top-ten BTS
+   
+   ### Check the result in S3 bucket to see top-ten BTS
     
    ### Query the long-latitude where subsciber access the internet
    
-   ![image](https://user-images.githubusercontent.com/54661468/136073307-f68800d9-0c8d-408a-8d9d-1115757de482.png)
+   
 
    # END
