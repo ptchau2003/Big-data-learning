@@ -29,6 +29,7 @@ I think:
 ### Create AWS EMR with m4.large, Spark, Zepplin and JupyterGateway package
 ### Put the top-ten.py and data.csv to S3
 ### Add Job and run the query
+
 ```
 import argparse
 from pyspark.sql import SparkSession
@@ -64,10 +65,6 @@ if __name__ == "__main__":
     query_bts_location(args.data_source, args.output_uri)
     ```
    
-   ### Check the result in S3 bucket to see top-ten BTS
-    
-   ### Query the long-latitude where subsciber access the internet
-   
-   
+### Check the result in S3 bucket to see top-ten BTS
+### Query the long-latitude where subsciber access the internet
 
-   # END
