@@ -1,9 +1,9 @@
 # Big Data Learning
 When I study for AWS Data Analyst, I am looking for something hand-on that I can do. :) I found a interesting dataset on internet regarding to Mobile Base station on Shanghai, thanks for it !!!
-http://www.sguangwang.com/TelecomDataset.html
-[1] Yuanzhe Li, Ao Zhou, Xiao Ma, Shangguang Wang, Profit-aware Edge Server Placement, IEEE Internet of Things Journal, 2021, https://ieeexplore.ieee.org/document/9442389 [PDF] [Sourcecode]
-[2] Y. Guo, S. Wang, A. Zhou, J. Xu, J. Yuan, C. Hsu. User Allocation‐aware Edge Cloud Placement in Mobile Edge Computing, Software: Practice and Experience, vol. 50, no. 5, pp. 489-502, 2020.[PDF] [Sourcecode]
-[3] S. Wang, Y. Guo, N. Zhang, P. Yang, A. Zhou, X. Shen. Delay-aware Microservice Coordination in Mobile Edge Computing: A Reinforcement Learning Approach, IEEE Transactions on Mobile Computing, vol. 20, no.3, pp.939-953, 2021. [PDF]
+###### http://www.sguangwang.com/TelecomDataset.html
+##### [1] Yuanzhe Li, Ao Zhou, Xiao Ma, Shangguang Wang, Profit-aware Edge Server Placement, IEEE Internet of Things Journal, 2021, https://ieeexplore.ieee.org/document/9442389 [PDF] [Sourcecode]
+##### [2] Y. Guo, S. Wang, A. Zhou, J. Xu, J. Yuan, C. Hsu. User Allocation‐aware Edge Cloud Placement in Mobile Edge Computing, Software: Practice and Experience, vol. 50, no. 5, pp. 489-502, 2020.[PDF] [Sourcecode]
+##### [3] S. Wang, Y. Guo, N. Zhang, P. Yang, A. Zhou, X. Shen. Delay-aware Microservice Coordination in Mobile Edge Computing: A Reinforcement Learning Approach, IEEE Transactions on Mobile Computing, vol. 20, no.3, pp.939-953, 2021. [PDF]
 
 ### About Telecom Dataset
 The dataset, provided by Shanghai Telecom, contains more than 7.2 million records of accessing the Interent through 3,233 base stations from 9,481 mobile phones for six months. For example, the following figure shows the distribution of base stations. Each node denotes a base station in Shanghai, China. This dataset could help researchers to evaluate their solution in mobile edge computing topic such as edge server placement, service migration, service recommendation, etc.
