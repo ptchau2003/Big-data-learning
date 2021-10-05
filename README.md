@@ -63,7 +63,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     query_bts_location(args.data_source, args.output_uri)
-    ```
+ ```
    
 ### Check the result in S3 bucket to see top-ten BTS
 ### Query the long-latitude where subsciber access the internet
