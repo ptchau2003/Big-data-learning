@@ -30,7 +30,6 @@ I think:
 ### Put the top-ten.py and data.csv to S3
 ### Add Job and run the query
 ```
-## Using Spark to query top 10 BTS with high internet load
 import argparse
 from pyspark.sql import SparkSession
 
