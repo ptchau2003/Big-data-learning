@@ -2,7 +2,7 @@
 ### When I study for AWS Data Analyst, I am looking for something handone that I can do. :)
 ### I found a interesting dataset on internet regarding to Mobile Base station on Shanghai, thanks for it
 ### http://www.sguangwang.com/TelecomDataset.html
-''' The dataset, provided by Shanghai Telecom, contains more than 7.2 million records of accessing the Interent through 3,233 base stations from 9,481 mobile phones for six months. For example, the following figure shows the distribution of base stations. Each node denotes a base station in Shanghai, China. This dataset could help researchers to evaluate their solution in mobile edge computing topic such as edge server placement, service migration, service recommendation, etc. '''
+'The dataset, provided by Shanghai Telecom, contains more than 7.2 million records of accessing the Interent through 3,233 base stations from 9,481 mobile phones for six months. For example, the following figure shows the distribution of base stations. Each node denotes a base station in Shanghai, China. This dataset could help researchers to evaluate their solution in mobile edge computing topic such as edge server placement, service migration, service recommendation, etc.'
 ''' ID	Parameter Name	Description
 1	Month	The month when one record happens
 2	Date	The date when one record happens
