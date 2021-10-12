@@ -66,7 +66,6 @@ if __name__ == "__main__":
  ```
    
 ### Check the result in S3 bucket to see top-ten BTS output csv
-
 ### Query the long-latitude where subsciber access the internet (cont.)
 
 
