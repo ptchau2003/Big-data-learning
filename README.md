@@ -70,7 +70,9 @@ Need to draw it on a map (on developing)
 ![image](https://user-images.githubusercontent.com/54661468/136959041-32421acb-2bc3-4a13-9f92-89e6d35af5b3.png)
 
 ### Query the long-latitude where subsciber access the internet (cont.)
+
 Need to draw it on a map (on developing)
+
 ![image](https://user-images.githubusercontent.com/54661468/136959071-17013215-880b-4870-b7fc-e9c4d420950d.png)
 
 
